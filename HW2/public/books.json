@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Грокаем алгоритмы",
+        "price": 24,
+        "imgPath": "./thumbnails/img1.jpg",
+        "sku": 1234567887,
+        "color": "#ffffff",
+        "description": "Алгоритмы — это всего лишь набор правил, по которым что-то выполняет действие. Например, поиск наименьшего элемента в массиве или сортировка элементов массива. Алгоритмы используются повсюду: в программировании, в поисковых системах, в сортировке, в обработке изображений, в криптографии и даже в биологии. Книга «Грокаем алгоритмы» поможет вам разобраться в алгоритмах и понять, как они работают. Книга написана простым языком, поэтому ее смогут понять даже те, кто не имеет опыта программирования. Книга содержит множество иллюстраций, которые помогут вам визуализировать процесс работы алгоритмов. Книга содержит практические примеры на языке Python, поэтому вы сможете применить полученные знания на практике. Книга будет полезна как начинающим программистам, так и тем, кто хочет узнать больше о том, как работают алгоритмы."
+    },
+    {
+        "name": "Cracking the Coding Interview",
+        "price": 32.48,
+        "imgPath": "./thumbnails/img2.jpg",
+        "sku": 1234567888,
+        "color": "#ffffff",
+        "description": "I am not a recruiter. I am a software engineer. And as such, I know what it's like to be asked to whip up brilliant algorithms on the spot and then write flawless code on a whiteboard. I've been through this as a candidate and as an interviewer. Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book. Learn how to uncover the hints and hidden details in a question, discover how to break down a problem into manageable chunks, develop techniques to unstick yourself when stuck, learn (or re-learn) core computer science concepts, and practice on 189 interview questions and solutions. These interview questions are real; they are not pulled out of computer science textbooks. They reflect what's truly being asked at the top companies, so that you can be as prepared as possible. WHAT'S INSIDE? 189 programming interview questions, ranging from the basics to the trickiest algorithm problems. A walk-through of how to derive each solution, so that you can learn how to get there yourself. Hints on how to solve each of the 189 questions, just like what you would get in a real interview. Five proven strategies to tackle algorithm questions, so that you can solve questions you haven't seen. Extensive coverage of essential topics, such as big O time, data structures, and core algorithms. A behind the scenes look at how top companies like Google and Facebook hire developers. Techniques to prepare for and ace the soft side of the interview: behavioral questions. For interviewers and companies: details on what makes a good interview question and hiring process."
+    },
+    {
+        "name": "System Design Interview",
+        "price": 35.99,
+        "imgPath": "./thumbnails/img14.jpg",
+        "sku": 1234567889,
+        "color": "#ffffff",
+        "description": "System design is a broad topic. There is a vast amount of resources scattered throughout the web on system design principles. This repo is an organized collection of resources to help you learn how to build systems at scale. System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems. This repo is an organized collection of resources to help you learn how to build systems at scale. System design is a broad topic. There is a vast amount of resources scattered throughout the web on system design principles. This repo is an organized collection of resources to help you learn how to build systems at scale. System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems. This repo is an organized collection of resources to help you learn how to build systems at scale."
+    },
+    {
+        "name": "AWS Certified Developer - Associate Guide",
+        "price": 37.04,
+        "imgPath": "./thumbnails/img3.jpg",
+        "sku": 1234567890,
+        "color": "#ffffff",
+        "description": "Amazon Web Services (AWS) is the gold standard of the cloud. If you are web and cloud computing developer, your life becomes much easier by diving deeper into AWS. This book shows you how to use the AWS SDK to develop secure and scalable cloud applications. The book guides you through the process of responding to the four most common access patterns of cloud-based applications. You'll learn how to use Amazon S3 for blob storage, the Amazon Kinesis service for real-time data processing, AWS Lambda for executing functions in response to events in your application, and much more. By the end of the book, you'll be able to develop and run applications in the AWS Cloud environment."
+    },
+    {
+        "name": "Software Architect's Handbook",
+        "price": 51.99,
+        "imgPath": "./thumbnails/img4.jpg",
+        "sku": 1234567891,
+        "color": "#ffffff",
+        "description": "This book will help you overcome the challenges of scaling and modernizing your legacy applications. You'll learn how to refactor a monolithic architecture into microservices, using APIs, asynchronous messaging, and other tools. You'll also learn how to migrate data from a monolithic database and set up continuous integration/continuous delivery pipelines to automate deployment. You'll learn techniques for avoiding duplication and inconsistencies in duplicated data sources. You'll also learn how to scale microservices, using techniques such as reactive microservices and clustered microservices. You'll learn how to modernize legacy applications step-by-step, with minimal risk and disruption. You'll learn how to use the Strangler pattern to replace pieces of a legacy system with modern microservices. You'll learn how to use the Strangler Fig Application pattern to replace an entire legacy system with a new system. You'll learn how to use the Branch by Abstraction pattern to replace a legacy data source with a new data source. You'll learn how to use the Parallel Change pattern to migrate from a legacy system to a new system, without disrupting the legacy system. You'll learn how to use the Database Strangler pattern to migrate from a legacy database to a new database, without disrupting the legacy system. You'll learn how to use the LMAX pattern to scale microservices. You'll learn how to use the Saga pattern to maintain data consistency across microservices. You'll learn how to use the API Gateway pattern to provide a unified API for a set of microservices. You'll learn how to use the Asynchronous Messaging pattern to decouple microservices from each other. You'll learn how to use the CQRS pattern to separate read operations from write operations. You'll learn how to use the Event Sourcing pattern to maintain data consistency within a microservice. You'll learn how to use the Event Collaboration pattern to maintain data consistency across microservices. You'll learn how to use the Command Query Responsibility Segregation (CQRS) pattern to separate read operations from write operations. You'll learn how to use the Event Sourcing pattern to maintain data consistency within a microservice. You'll learn how to use the Event Collaboration pattern to maintain data consistency across microservices. You'll learn how to use the Command Query Responsibility Segregation (CQRS) pattern to separate read operations from write operations. You'll learn how to use the Event Sourcing pattern to maintain data consistency within a microservice. You'll learn how to use the Event Collaboration pattern..."
+    },
+    {
+        "name": "Clean Code",
+        "price": 29.99,
+        "imgPath": "./thumbnails/img5.jpg",
+        "sku": 1234567892,
+        "color": "#ffffff",
+        "description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way. Noted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship. Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code on the fly into a book that will instill within you the values of a software craftsman and make you a better programmer-but only if you work at it. What kind of work will you be doing? You'll be reading code-lots of code. And you will be challenged to think about what's right about that code, and what's wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft. Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code-of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and smells gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code. Readers will come away from this book understanding How to tell the difference between good and bad code How to write good code and how to transform bad code into good code How to create good names, good functions, good objects, and good classes How to format code for maximum readability How to implement complete error handling without obscuring code logic How to unit test and practice test-driven development This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code."
+    },
+    {
+        "name": "Software Architecture Patterns for Serverless Applications",
+        "price": 45.00,
+        "imgPath": "./thumbnails/img6.jpg",
+        "sku": 1234567891,
+        "color": "#ffffff",
+        "description": "Serverless applications handle many problems that developers face when running systems and servers. The serverless pay-per-invocation model can also result in drastic cost savings, contributing to its popularity. However, the architectural patterns for developing and deploying serverless applications can be complex, making it difficult to understand how to best use these services. This book takes a holistic view of the serverless ecosystem, covering the pros and cons of serverless architectures. It begins by giving you a quick overview of the fundamentals that make up a serverless application. You'll then delve into design considerations for your serverless application, such as backing services and distributed logging. As you progress, you'll learn how to design scalable and highly available serverless applications that follow best practices. You'll also discover how to work with different event sources and integrate with external systems using AWS Lambda and Amazon API Gateway. Finally, you'll get to grips with security best practices for your serverless application. By the end of this book, you'll have learned how to design, develop, and deploy serverless applications using best practices."  
+    },
+    {
+        "name": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
+        "price": 47.02,
+        "imgPath": "./thumbnails/img7.jpg",
+        "sku": 1234567892,
+        "color": "#ffffff",
+        "description": "Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how. By using concrete examples, minimal theory, and two production-ready Python frameworks-Scikit-Learn and TensorFlow-author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You'll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each chapter to help you apply what you've learned, all you need is programming experience to get started. Explore the machine learning landscape, particularly neural nets Use Scikit-Learn to track an example machine-learning project end-to-end Explore several training models, including support vector machines, decision trees, random forests, and ensemble methods Use the TensorFlow library to build and train neural nets Dive into neural net architectures, including convolutional nets, recurrent nets, and deep reinforcement learning Learn techniques for training and scaling deep neural nets Apply practical code examples without acquiring excessive machine learning theory or algorithm details"
+    },
+    {
+        "name": "Oracle Certified Professional Java SE 11 Programmer Exam Fundamentals 1Z0-815",
+        "price": 35.49,
+        "imgPath": "./thumbnails/img8.jpg",
+        "sku": 1234567893,
+        "color": "#ffffff",
+        "description": "This book is a comprehensive, step-by-step and one-stop guide for the Java SE 8 Programmer II exam (IZ0-809). Salient features of this book include: 100% coverage of the exam topics, a full-length mock exam, practice exam questions, exam notes and tips. Oracle Certified Professional Java SE 8 Programmer II Guide (Exam IZ0-809) is a comprehensive guide for the OCPJP 8 exam. The book starts by answering frequently asked questions about the OCPJP 8 exam (Chapter 1). The book maps each exam topic into a chapter and covers 100% of the exam topics (next 12 Chapters). Exam topics are discussed using numerous programming and real-world examples. Each chapter ends with practice exam questions and a quick summary that revises key concepts covered in the chapter from exam perspective. After reading the main chapters, you can take the full-length mock exam to ensure that you have enough practice before actually taking the exam (Chapter 14). If you are an OCPJP 8 exam aspirant, this book is certainly for you. This book assumes that you are already familiar with Java fundamentals (that is in line with the prerequisite of having a OCAJP 8 certification before you take up the OCPJP 8 exam). This book will be a delectable read to you because of its simple language, example driven approach, easy-to-read style, and complete focus towards the exam. Salient Features • In-depth and 100% coverage of all 12 exam topics for the certification • Numerous illustrative programming and real-world examples• Hundreds of practice exam questions (including a full-length mock exam) What you will learn: • Have the necessary knowledge to clear the exam since 100% of the exam topics are covered to the required depth • Clearly understand the scope and objectives of the exam, the technical topics covered in the exam, and type and level-of-difficulty of the exam questions (in short, you will clearly know what’s exactly required for passing the exam) • Get into an “exam mindset” by trying out hundreds of practice exam questions."
+    },
+    {
+        "name": "CCNA Certification Study Guide Exam 200-301",
+        "price": 27.62,
+        "imgPath": "./thumbnails/img9.jpg",
+        "sku": 1234567894,
+        "color": "#ffffff",
+        "description": "The ultimate CCNA prep resource, practice exams, expert coverage, and more The CCNA Routing and Switching Complete Certification Kit, 2nd Edition contains the CCNA Routing and Switching Complete Deluxe Study Guide, 2nd Edition and the CCNA Routing and Switching Complete Review Guide, 2nd Edition covering the revised version 3.0 ICND1, ICND2, and CCNA Composite exams, 100-105, 200-105, and 200-125. This complete study package provides 100% coverage of all exam objectives, with expert guidance from leading Cisco networking authority Todd Lammle—guiding you through a robust overview of the CCNA exam. Practice and review with the Sybex superior set of study tools including: real-world scenarios, objective maps, assessment tests, and chapter tests. Gain hands-on experience with the Sybex interactive learning environment that offers over 1,300 flashcards and practice test questions for last minute review, a searchable glossary with key terms, and a free eBook in multiple formats. The CCNA Routing and Switching exams test your understanding of IP data networks, LAN switching, IP addressing and routing, WAN technologies, network security, and more. This Complete kit covers it all to give you the information and practice you need to be confident on exam day. Master all objectives of the latest versions of exams Get hands-on practice with virtual labs Preview the exam with online practice tests Learn to design, configure, operate, and troubleshoot networks of all sizes"
+    },
+    {
+        "name": "OSCP - A Complete Guide 2021",
+        "price": 37.19,
+        "imgPath": "./thumbnails/img10.jpg",
+        "sku": 1234567895,
+        "color": "#ffffff",
+        "description": "This book is a complete guide for OSCP (Offensive Security Certified Professional) from A to Z in Kali Linux OS. This book is designed for beginners, even if you are not familiar with Kali Linux or other Linux distributions, you can still use this book. This book is designed for beginners, even if you are not familiar with Kali Linux or other Linux distributions, you can still use this book. This book is designed for beginners, even if you are not familiar with Kali Linux or other Linux distributions, you can still use this book. This book is designed for beginners, even if you are not familiar with Kali Linux or other Linux distributions, you can still use this book. This book is designed for beginners, even if you are not familiar with Kali Linux or other Linux distributions, you can still use this book. This book is designed for beginners, even if you are not familiar with Kali Linux or other Linux distributions, you can still use this book. This book is designed for beginners, even if you are not familiar with Kali Linux or other Linux distributions, you can still use this book. This book is designed for beginners, even if you are not familiar with Kali Linux or other Linux distributions, you can still use this book."
+    },
+    {
+        "name": "The 7 Habits of Highly Effective People",
+        "price": 17.99,
+        "imgPath": "./thumbnails/img11.jpg",
+        "sku": 1234567896,
+        "color": "#ffffff",
+        "description": "When it was first published in 1989, The 7 Habits of Highly Effective People was an almost instant bestseller--and quickly became a permanent part of the cultural lexicon. With over 25 million copies sold worldwide in over 40 languages since its first publication, this book continues to help millions of readers become more effective in both their personal and professional lives. This is one of the rare books that has influenced presidents, CEOs, educators, and individuals all over the world not only to improve their businesses and careers but to live with integrity, service, dignity, and success in all areas of life. It has had an undeniable impact for the past 25 years--and will no doubt continue to be influential for many more. ENDURING PRINCIPLES OF EFFECTIVENESS: • Habit 1: Be Proactive • Habit 2: Begin With The End In Mind • Habit 3: Put First Things First • Habit 4: Think Win-Win • Habit 5: Seek First To Understand Then Be Understood • Habit 6: Synergize • Habit 7: Sharpen The Saw"
+    },
+    {
+        "name": "Alan Carr's Easy Way to Stop Smoking",
+        "price": 12.89,
+        "imgPath": "./thumbnails/img13.jpg",
+        "sku": 1234567897,
+        "color": "#ffffff",
+        "description": "Allen Carr's Easy Way to Stop Smoking is a self-help classic, with over 20m copies sold worldwide. It has been a #1 bestseller in nine European countries. It outsells all other quit smoking titles combined. This edition has been developed specifically for smokers in the US. This seminal book has enabled millions of smokers to quit easily and enjoyably using Carr's simple, drug-free approach. (Allen Carr)"
+    },
+    {
+        "name": "Atomic Habits",
+        "price": 12.44,
+        "imgPath": "./thumbnails/img12.jpg",
+        "sku": 1234567898,
+        "color": "#ffffff",
+        "description": "No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results. If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights. Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field. Learn how to: • make time for new habits (even when life gets crazy); • overcome a lack of motivation and willpower; • design your environment to make success easier; • get back on track when you fall off course; ...and much more. Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal."
+    },
+    {
+        "name": "The Torah. The Five Books of Moses",
+        "price": 9.60,
+        "imgPath": "./thumbnails/img15.jpg",
+        "sku": 1234567899,
+        "color": "#ffffff",
+        "description": "The Torah is the essence of Jewish tradition; it inspires each successive generation. The current JPS translation, based on classical and modern sources, is acclaimed for its fidelity to the ancient Hebrew."
+    }
+]
